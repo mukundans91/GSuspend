@@ -1,0 +1,21 @@
+This is one of my first forays into the python world.
+
+This project evolved on a need basis.
+
+Previously I wanted to suspend my laptop after certain time interval and I found out that for that I had to run certain 
+commands in the shell.
+
+This just wraps up all the commands neatly into one command and can be used from the shell directly .
+
+First copy the file to /usr/bin
+
+Then it can be used in two ways
+
+gsuspend now
+
+or 
+
+gsuspend after n
+
+wher n is the number of minutes
+
